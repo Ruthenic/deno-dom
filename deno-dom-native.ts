@@ -1,4 +1,4 @@
-import { Plug } from "https://deno.land/x/plug/mod.ts";
+import { Plug } from "https://deno.land/x/plug@0.5.2/mod.ts";
 import { register } from "./src/parser.ts";
 
 const nativeEnv = "DENO_DOM_PLUGIN";
